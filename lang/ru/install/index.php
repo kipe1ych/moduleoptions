@@ -1,0 +1,5 @@
+<?php
+$MESS['MODULEOPTIONS_MODULE_NAME'] = 'Модуль опции';
+$MESS['MODULEOPTIONS_MODULE_DESCRIPTION'] = 'Описание модуля';
+$MESS['MODULEOPTIONS_PARTNER_NAME'] = 'partners';
+$MESS['MODULEOPTIONS_PARTNER_URI'] = 'https://test.ru';
